@@ -1,15 +1,3 @@
-// General information: 
-//  MT Manager version: 2025.2.0 
-//  XDA version: 2025.2.0 build 250509001 rev 1746715332 built on 2025-05-09
-// Device information: 
-//  DeviceId: 037004D1
-//  ProductCode: MTi-300-2A5G4
-//  Firmware Version: 1.4.1
-//  Hardware Version: 2.1.0
-// Device settings: 
-//  Filter Profile: general(39.16)
-//  Option Flags: Orientation Smoother Disabled, Position/Velocity Smoother Disabled, Continuous Zero Rotation Update Disabled, AHS Disabled, ICC Disabled
-// Coordinate system: ENU
 PacketCounter	SampleTimeFine	Acc_X	Acc_Y	Acc_Z	Gyr_X	Gyr_Y	Gyr_Z	Roll	Pitch	Yaw
 47979	2860624	9.781633	0.163546	0.008839	-0.007847	0.005215	-0.003543			
 47980	2860649	9.789973	0.170581	-0.047359	-0.010799	0.001881	0.001325			
