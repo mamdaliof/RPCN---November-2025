@@ -126,6 +126,7 @@ def integrate_planar_motion(imu: ImuData, initial_heading: float = 0.0) -> np.nd
         )
 
         velocities[i] = velocities[i - 1] + accel_nav * dt
+        velocities[i] =  accel_nav * dt
         positions[i] = positions[i - 1] + velocities[i] * dt
 
     return positions
